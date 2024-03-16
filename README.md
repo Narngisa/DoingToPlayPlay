@@ -1,8 +1,8 @@
 # Doing to play play
 
-This project is a clicker game inspired by [Torsumathp](https://github.com/Torsumathp/Doing_to_play_play).
+This project is a clicker game created with ReactJS and inspired by [Torsumathp](https://github.com/Torsumathp/Doing_to_play_play).
 
-### Responsive Prject
+### Responsive Project
 
 ✅ PC / Laptop <br>
 ❌ Mobile
