@@ -2,14 +2,15 @@
 
 This project is a clicker game created with ReactJS and inspired by [Torsumathp](https://github.com/Torsumathp/Doing_to_play_play).
 
-### Responsive Project
+> [!NOTE]
+> ### Responsive Project
+> 
+> **✅ PC / Laptop** <br>
+> **❌ Mobile**
 
-✅ PC / Laptop <br>
-❌ Mobile
+- **Example Image**
 
-## Example Image
-
-![image](https://github.com/Narngisa/DoingToPlayPlay/assets/100367855/f2013246-817d-44d8-926b-1dd9019ddf20)
+<img src="https://github.com/Narngisa/DoingToPlayPlay/assets/100367855/f2013246-817d-44d8-926b-1dd9019ddf20" weight=300 height=200 />
 
 
 # React + Vite
