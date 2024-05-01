@@ -3,11 +3,17 @@
 This project is a clicker game created with ReactJS and inspired by [Torsumathp](https://github.com/Torsumathp/Doing_to_play_play).
 
 > [!IMPORTANT]
+> - **Install nodeJS**
 > ```
 > npm install
 > ```
+> - **Run Project**
+> ```
+> npm run dev
+> ```
 
-> [!NOTE]
+
+> [!WARNING]
 > ### Responsive Project
 > 
 > **✅ PC / Laptop** <br>
@@ -15,7 +21,7 @@ This project is a clicker game created with ReactJS and inspired by [Torsumathp]
 
 - **Example Image**
 
-<img src="https://github.com/Narngisa/DoingToPlayPlay/assets/100367855/f2013246-817d-44d8-926b-1dd9019ddf20" weight=300 height=200 />
+<img src="https://github.com/Narngisa/DoingToPlayPlay/assets/100367855/f2013246-817d-44d8-926b-1dd9019ddf20" weight=250 height=150 />
 
 
 # React + Vite
