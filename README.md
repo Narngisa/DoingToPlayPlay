@@ -2,6 +2,11 @@
 
 This project is a clicker game created with ReactJS and inspired by [Torsumathp](https://github.com/Torsumathp/Doing_to_play_play).
 
+> [!IMPORTANT]
+> ```
+> npm install
+> ```
+
 > [!NOTE]
 > ### Responsive Project
 > 
